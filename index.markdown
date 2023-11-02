@@ -7,7 +7,7 @@ layout: home
 
 ## Who we are
 
-Weekly beers is a software company that focuses on building fun projects that get people interested in new techology. We are continusouly diving into fresh, exciting ideas, turning them into reality with a touch of playfulness and a deep commitment to innovation. We are based out of Knoxville, Tennesseee.
+Weekly Beers is a software company that focuses on building fun projects that get people interested in new techology. We are continusouly diving into fresh, exciting ideas, turning them into reality with a touch of playfulness and a deep commitment to innovation. We are based out of Knoxville, Tennesseee.
 
 ## Meet the founders
 
