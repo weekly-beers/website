@@ -1,8 +1,35 @@
 ---
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
+title: ""
 layout: home
 ---
 
-Weekly beers is a
+## Who we are
+
+Weekly beers is a software company that focuses on building fun projects that get people interested in new techology. We are continusouly diving into fresh, exciting ideas, turning them into reality with a touch of playfulness and a deep commitment to innovation. We are based out of Knoxville, Tennesseee.
+
+## Meet the founders
+
+<div style="display: flex; justify-content: space-around; align-items: center;">
+    
+    <div style="text-align: center;">
+        <img src="/assets/frankie.png" alt="Frankie" title="Frankie" height="200" />
+        <p>Frankie</p>
+    </div>
+
+    <div style="text-align: center;">
+        <img src="/assets/leroy.png" alt="Leroy" title="Leroy" height="200" />
+        <p>Leroy</p>
+    </div>
+
+    <div style="text-align: center;">
+        <img src="/assets/tucker.png" alt="Tucker" title="Tucker" height="200" />
+        <p>Tucker</p>
+    </div>
+
+</div>
+
+## Contact Us
+
+You can email us <a href="mailto:business@weeklybeers.org">here</a>
