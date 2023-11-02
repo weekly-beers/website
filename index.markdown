@@ -30,6 +30,6 @@ Weekly beers is a software company that focuses on building fun projects that ge
 
 </div>
 
-## Contact Us
+## Contact us
 
 You can email us <a href="mailto:business@weeklybeers.org">here</a>
