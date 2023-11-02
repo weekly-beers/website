@@ -5,4 +5,4 @@
 layout: home
 ---
 
-test content
+Weekly beers is a
