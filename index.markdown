@@ -14,17 +14,17 @@ Weekly Beers is a software company that focuses on building fun projects that ge
 <div style="display: flex; justify-content: space-around; align-items: center;">
     
     <div style="text-align: center;">
-        <img src="/assets/frankie.png" alt="Frankie" title="Frankie" height="200" />
+        <img src="/assets/frankie.png" alt="Frankie" title="Frankie" height="250" />
         <p>Frankie</p>
     </div>
 
     <div style="text-align: center;">
-        <img src="/assets/leroy.png" alt="Leroy" title="Leroy" height="200" />
+        <img src="/assets/leroy.png" alt="Leroy" title="Leroy" height="250" />
         <p>Leroy</p>
     </div>
 
     <div style="text-align: center;">
-        <img src="/assets/tucker.png" alt="Tucker" title="Tucker" height="200" />
+        <img src="/assets/tucker.png" alt="Tucker" title="Tucker" height="250" />
         <p>Tucker</p>
     </div>
 
