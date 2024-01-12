@@ -5,7 +5,6 @@ title: ""
 layout: home
 ---
 
-
 ## Who we are
 
 Weekly Beers is a software company that focuses on building fun projects that get people interested in new technology. We are continuously diving into fresh, exciting ideas, turning them into reality with a touch of playfulness and a deep commitment to innovation. We are based out of Knoxville, Tennessee.
@@ -30,6 +29,17 @@ Weekly Beers is a software company that focuses on building fun projects that ge
     </div>
 
 </div>
+
+## Projects
+
+### SimpleDepiction
+
+SimpleDepiction is an AI image generator so simple it can be explained in just two steps:
+
+1. Type your prompt.
+2. Press enter.
+
+There is no account, no payment, and no tokens necessary. Try it out at [SimpleDepiction.com](https://simpledepiction.com)!
 
 ## Contact us
 
